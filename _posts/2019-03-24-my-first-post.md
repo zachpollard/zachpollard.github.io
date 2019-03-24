@@ -11,9 +11,9 @@ title: My Firt Post
 
 (equivelent of h2)
 
-'''python
+python
 print("hello")
-'''
+
 
 
 a|b|c
