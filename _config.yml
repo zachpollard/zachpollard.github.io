@@ -4,10 +4,10 @@
 permalink:           pretty
 
 # Setup
-title:               '> Your Name Here <'
-tagline:             '"something mathy"'
+title:               'zach pollard'
+tagline:             'the website'
 description:         'Look ma, I have a website!'
-baseurl:             '/tmsc-workshop'
+baseurl:             ''
 paginate:            5
 markdown:            kramdown
 
@@ -23,9 +23,9 @@ kramdown:
 
 # About/contact
 author:
-  name:              Your Name
-  url:               https://your-username.github.io
-  email:             youremail@email.com
+  name:              zach pollard
+  url:               https://zachpollard.github.io
+  email:             zacharie.pollard.1996@email.com
 
 # Custom vars
 version:             1.0.0
