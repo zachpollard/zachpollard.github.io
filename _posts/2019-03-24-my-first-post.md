@@ -30,9 +30,9 @@ $$
 
 {% raw %}
 <script src="https://cdn.jsdelivr.net/npm/frappe-charts@1.1.0/dist/frappe-charts.min.iife.js"></script>
-{% end raw %}
+{% endraw %}
 
-
+{% raw %}
 <div id="mychart"></div>
 
 <script>
@@ -73,3 +73,4 @@ let chart = new frappe.Chart( "#frost-chart", { // or DOM element
 	}
   });
 </script>
+{% endraw %}
